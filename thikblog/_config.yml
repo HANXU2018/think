@@ -3,9 +3,10 @@ subtitle: '发点 无趣的事情'
 description: ''
 keywords: null
 author: HANXU2018
-language: ch
+language: zh-CN
 timezone: ''
-url: http://example.com
+url: https://hanxu2018.github.io/think/
+root: /think/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
