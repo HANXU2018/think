@@ -209,11 +209,11 @@ sidebar:
     # Left sidebar configurations
     left:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
@@ -223,13 +223,13 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: HANXU2018
         # Author title
-        author_title: Your title
+        author_title: 一个☝️仍然存活的 程序员
         # Author's current location
-        location: Your location
+        location: China 🇨🇳 中国
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://avatars.githubusercontent.com/u/45117061
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
@@ -256,14 +256,14 @@ widgets:
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: toc
         # Whether to show the index of each heading
         index: true
         # Whether to collapse sub-headings when they are out-of-view
         collapsed: true
         # Maximum level of headings to show (1-6)
-        depth: 3
+        depth: 4
     # Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
