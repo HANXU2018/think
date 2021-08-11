@@ -1,38 +1,99 @@
 ---
-title: Hello World
+title: 第一篇 开始😷
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 为什么要整这个博客
 
-### Create a new post
+这是一个问题
 
-``` bash
-$ hexo new "My New Post"
-```
+在不同阶段 我都开过不同的博客或者不同的专栏
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+大一的时候因为 python 选修课 开了 博客园
 
-### Run server
+暑假 因为程序设计训练营想要写 题解 就开了 CSDN
 
-``` bash
-$ hexo server
-```
+后面 学了点 GitHub 的骚操作 就整了 GitHub 的托管
 
-More info: [Server](https://hexo.io/docs/server.html)
+再后来 逛牛客网 有注册了牛客的内部博客
 
-### Generate static files
+无一例外这些都乱七八糟 各种个样
 
-``` bash
-$ hexo generate
-```
+我会看百度贴吧 B站 刷 知乎 微博 豆瓣 抖音 少数派 微信公众号
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+可能遇到想评论的 基本上也从不会评论 而是回到自己的博客
 
-### Deploy to remote sites
+写一篇记录 写下当时的想法，并不知道对或者不对 
 
-``` bash
-$ hexo deploy
-```
+需要时间的沉淀 证明当时 的 想法是对的还是错的。
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+![本地生产力工具🔨](https://cdn.jsdelivr.net/gh/HANXU2018/thinkpic@main/2021/2021-08/image-20210811123754214.png)
+
+### 自嗨的笔记
+
+我会用 印象笔记 notion 有道云 飞书  腾讯文档 语雀 来记笔记
+
+但这些都 堆积在一起 我也没有再看过，别人也看不到
+
+![印象笔记](https://cdn.jsdelivr.net/gh/HANXU2018/thinkpic@main/2021/2021-08/image-20210811114010081.png)
+
+![滴答清单](https://cdn.jsdelivr.net/gh/HANXU2018/thinkpic@main/2021/2021-08/image-20210811114257562.png)
+
+### 触碰利益的博客平台
+
+后面一直在用第三方笔记平台做笔记 
+
+随着 逐渐学习的深入 和 接触到 其他思想上的东西
+
+会触及到 部分人 的利益 也会 违反 平台的规定
+
+不过 也没说 黄赌毒 但是平台就容不下 他们 不需要的内容
+
+![csdn](https://cdn.jsdelivr.net/gh/HANXU2018/thinkpic@main/2021/2021-08/image-20210811115101084.png)
+
+这个世界 
+
+平台只想要他们想要的数据
+
+网友们只想听到自己想听的声音
+
+看一看微博评论刷一刷抖音视频就可以看到
+
+
+
+### 个人的自留地
+
+给自己找一个自留地 野蛮的生长吧
+
+或许某一天会开出花来
+
+
+
+这个博客是否会像之前我建立的一个又一个的博客那样 搁置吗？
+
+可能吧，也可能不会
+
+
+
+相信，不管怎样 都是不错的。
+
+就算搁置了，也说明 我发现了更重要的事情需要我去做。
+
+整理好心情再出发
+
+
+
+把文章发布在博客里，需要被看见，又不需要被看见
+
+总会有人看见，但当你看到的时候
+
+我应该早就不是当时的心境
+
+你再去和我聊这个话题 我可能早就忘了这个故事
+
+或许我又有了新的角度
+
+新的视角。
+
+
+
